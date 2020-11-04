@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Adriano Siqueira
-## Backend Developer
+## Backend Developer from Brazil
 
 Skills: GO / NodeJS / PHP
 
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-Adriano Siqueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-nunes)](https://www.linkedin.com/in/adriano-nunes)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adriano-nunes/)
